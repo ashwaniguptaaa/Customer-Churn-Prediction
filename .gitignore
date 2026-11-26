@@ -1,0 +1,9 @@
+﻿prediction_history.csv
+DATA/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+desktop.ini
